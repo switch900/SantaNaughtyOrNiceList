@@ -1,4 +1,4 @@
-# Santa Naughty Or Nice List
+# Santa's Naughty Or Nice List
 
 <p>Backend is a ASP.NET Core Web API and a SQLLite database hosted on Azure.  Authentication is handled with Identity Framework and JWT Tokens.</p>
 
