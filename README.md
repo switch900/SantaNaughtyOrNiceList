@@ -1,9 +1,12 @@
 # SantaNaughtyOrNiceList
 
+<p>Backend is a ASP.NET Core Web API and a SQLLite database hosted on Azure.  Authentication is handled with Identity Framework and JWT Tokens.</p>
+
+<p>Front end is written with React.  Using Fetch to communicate with API</p>
+
 <h3>User can log in as either Santa (admin) or Child (user):</h3>
 
 <img src="https://github.com/switch900/SantaNaughtyOrNiceList/blob/master/Images/LoginPage.png?raw=true" />
-  
 
 <h3>When Santa logs in he can see a list of users</h3>
   
