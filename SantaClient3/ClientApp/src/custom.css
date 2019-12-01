@@ -1,0 +1,19 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2019/08/27/04/01/christmas-background-4433295_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
