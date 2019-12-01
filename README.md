@@ -9,10 +9,10 @@
   
 <img src="https://github.com/switch900/SantaNaughtyOrNiceList/blob/master/Images/EditProfilePage.png?raw=true" />
 
-<h3>User Detail Page.  Only Santa can see if a child is naughty or nice and can change status by clicking text box.<br>
-  Santa also see a list of other children he can click on.<br>
-  When child logs in they do not see checkbox.  Instead they see an edit user button which Santa does not see.<br>
-Both users see an embedded Google Map from google-map-react that shows user location</h3>
+<h3>     User Detail Page.  Only Santa can see if a child is naughty or nice and can change status by clicking text box.<br>
+       Santa can also see a list of other children which he can click on.<br>
+       When child logs in they do not see checkbox.  Instead they see an edit user button which Santa does not see.<br>
+     Both users see an embedded Google Map from google-map-react that shows user location</h3>
 
 <img src="https://github.com/switch900/SantaNaughtyOrNiceList/blob/master/Images/SantaDetailPage.png?raw=true"/>
 
