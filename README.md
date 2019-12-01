@@ -1,6 +1,6 @@
 # Santa's Naughty Or Nice List
 
-<p>Backend is ASP.NET Core Web API and a SQLLite database hosted on Azure.  Authentication is handled with Identity Framework and JWT Tokens.</p>
+<p>Backend is ASP.NET Core Web API and a SQLLite database which was hosted on Azure.  Authentication is handled with Identity Framework and JWT Tokens.</p>
 
 <p>Front end is written with React.  Using Fetch to communicate with API</p>
 
